@@ -1,1 +1,2 @@
-Streamlit based chat application in which we can upload PDFs and able to interact with it.
+# Chat with PDF using Gemini
+A Streamlit-based chat application that enables users to upload PDFs and interact with their content using AI.
